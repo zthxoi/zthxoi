@@ -5,7 +5,7 @@
 - 📫 How to reach me @zthxoi
 - 😄 Pronouns: He
 - ⚡ Fun fact: bzabzabza
-How to contact me? - Just send me email den.yurchenko.05@mail.ru
+- How to contact me? - Just send me email den.yurchenko.05@mail.ru
 
 <!---
 zthxoi/zthxoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
