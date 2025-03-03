@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @zthxoi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning OGU
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on yandex
 - 📫 How to reach me @zthxoi
-- 😄 Pronouns: ...
+- 😄 Pronouns: He
 - ⚡ Fun fact: bzabzabza
 
 <!---
