@@ -6,7 +6,7 @@ Web Developer
 
 I study web development at the university.
 
-*   🌍  I'm based in Orel
+*   🌍  I'm based in Oryol
 *   ✉️  You can contact me at [den.yurchenko.05@mail.ru](mailto:den.yurchenko.05@mail.ru)
 *   ⚡  Sometimes i edited videos
 ### Skills 
